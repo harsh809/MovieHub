@@ -3,7 +3,7 @@
 - Frontend made with help of React.js and MaterialUI.
 - Utilized TMDB database to fetch details of all movies and series.
 - Managed system states using Redux.
-- Version-1,visit - https://moviehub-3ieenb6ft-harshs-projects-7bc36e6e.vercel.app/
+- Version-1,visit - https://moviehub001.vercel.app/
 
 ## Getting Started with Create React App
 
